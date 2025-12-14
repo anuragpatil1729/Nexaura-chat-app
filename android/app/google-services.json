@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "385943815984",
+    "project_id": "chatapp-new-7ec36",
+    "storage_bucket": "chatapp-new-7ec36.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385943815984:android:0b9cabf4db014e36842af5",
+        "android_client_info": {
+          "package_name": "com.example.nexaaura"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAShAEKZZa2UvSv8O-5zVA6nEBeAJyEtQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
