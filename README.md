@@ -268,3 +268,5 @@ For issues and questions, please create an issue in the repository.
 ---
 
 **NexaAura** - Modern chat experience with a cyberpunk edge ⚡
+
+many more to come , Thinking ....
